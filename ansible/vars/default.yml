@@ -12,3 +12,9 @@ mysql_password: "password"
 http_host: "your_domain"
 http_conf: "your_domain.conf"
 http_port: "80"
+
+#POSTGRESQL Settings
+postgresql_db: "wordpress"
+postgresql_user: "wordpress"
+postgresql_password: "Admin4321"
+postgres_host: ""
